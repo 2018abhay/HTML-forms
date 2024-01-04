@@ -1,0 +1,100 @@
+h1 {
+    text-shadow:  5cqi;
+    color: black;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: azure;
+}
+.info{
+    text-decoration: solid;
+    text-shadow: 5cqi;
+    color: black;
+    font-size: larger;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    
+ }
+ /*  
+.rect{
+position: absolute;
+top: 0px;
+bottom: 0px;
+right: 900px;
+left: 0px;
+image-resolution: from-image 700dpi;
+ } */
+.head{
+    text-shadow: 10cqi;
+    color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.l1{
+    text-shadow: 5cqi;
+    box-shadow: 2px 2px lightblue;
+    text-decoration-color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.l2{
+    text-shadow: 5cqi;
+    text-decoration-color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.l3{
+    text-shadow: 5cqi;
+    text-decoration-color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.nm{
+    text-shadow: 5cqi;
+    text-decoration-color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head2{
+    text-shadow:  5cqi;
+    color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.l4{
+    text-shadow: 5cqi;
+    text-decoration-color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.p1{
+    text-shadow: 5cqi;
+    text-decoration: solid;
+    text-decoration-color: darkturquoise;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+  .button{
+    background-color: #04AA6D;
+    color: rgb(231, 238, 231);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  .button1:hover {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #04AA6D;
+  }
+  
